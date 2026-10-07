@@ -26,7 +26,7 @@ const products = [
         discount: 17,
         category: "Mobiles",
         stock: 10,
-        image: "./images/product1.jpg"
+        image: "./product1.jpg"
     },
 
     {
@@ -38,7 +38,7 @@ const products = [
         discount: 14,
         category: "Mobiles",
         stock: 8,
-        image: "./images/product2.jpg"
+        image: "./product2.jpg"
     },
 
     {
@@ -50,7 +50,7 @@ const products = [
         discount: 19,
         category: "Mobiles",
         stock: 15,
-        image: "./images/product3.jpg"
+        image: "./product3.jpg"
     },
 
     {
@@ -62,7 +62,7 @@ const products = [
         discount: 14,
         category: "Electronics",
         stock: 7,
-        image: "./images/product4.jpg"
+        image: "./product4.jpg"
     },
 
     {
@@ -74,7 +74,7 @@ const products = [
         discount: 14,
         category: "Electronics",
         stock: 6,
-        image: "./images/product5.jpg"
+        image: "./product5.jpg"
     },
 
     {
@@ -86,7 +86,7 @@ const products = [
         discount: 33,
         category: "Audio",
         stock: 20,
-        image: "./images/product6.jpg"
+        image: "./product6.jpg"
     },
 
     {
@@ -98,7 +98,7 @@ const products = [
         discount: 29,
         category: "Audio",
         stock: 12,
-        image: "./images/product7.jpg"
+        image: "./product7.jpg"
     },
 
     {
@@ -110,7 +110,7 @@ const products = [
         discount: 38,
         category: "Watches",
         stock: 18,
-        image: "./images/product8.jpg"
+        image: "./product8.jpg"
     },
 
     {
@@ -122,7 +122,7 @@ const products = [
         discount: 30,
         category: "Watches",
         stock: 9,
-        image: "./images/product9.jpg"
+        image: "./product9.jpg"
     },
 
     {
@@ -134,7 +134,7 @@ const products = [
         discount: 40,
         category: "Fashion",
         stock: 25,
-        image: "./images/product10.jpg"
+        image: "./product10.jpg"
     },
 
     {
@@ -146,7 +146,7 @@ const products = [
         discount: 38,
         category: "Fashion",
         stock: 30,
-        image: "./images/product11.jpg"
+        image: "./product11.jpg"
     },
 
     {
@@ -158,7 +158,7 @@ const products = [
         discount: 40,
         category: "Fashion",
         stock: 14,
-        image: "./images/product12.jpg"
+        image: "./product12.jpg"
     },
 
     {
@@ -170,7 +170,7 @@ const products = [
         discount: 42,
         category: "Home",
         stock: 22,
-        image: "./images/product13.jpg"
+        image: "./product13.jpg"
     },
 
     {
@@ -182,7 +182,7 @@ const products = [
         discount: 38,
         category: "Home",
         stock: 16,
-        image: "./images/product14.jpg"
+        image: "./product14.jpg"
     },
 
     {
@@ -194,7 +194,7 @@ const products = [
         discount: 25,
         category: "Home",
         stock: 11,
-        image: "./images/product15.jpg"
+        image: "./product15.jpg"
     },
 
     {
@@ -206,7 +206,7 @@ const products = [
         discount: 35,
         category: "Toys",
         stock: 19,
-        image: "./images/product16.jpg"
+        image: "./product16.jpg"
     },
 
     {
@@ -218,7 +218,7 @@ const products = [
         discount: 40,
         category: "Toys",
         stock: 24,
-        image: "./images/product17.jpg"
+        image: "./product17.jpg"
     },
 
     {
@@ -230,7 +230,7 @@ const products = [
         discount: 28,
         category: "Electronics",
         stock: 13,
-        image: "./images/product18.jpg"
+        image: "./product18.jpg"
     },
 
     {
@@ -242,7 +242,7 @@ const products = [
         discount: 30,
         category: "Electronics",
         stock: 21,
-        image: "./images/product19.jpg"
+        image: "./product19.jpg"
     },
 
     {
@@ -254,7 +254,7 @@ const products = [
         discount: 33,
         category: "Electronics",
         stock: 17,
-        image: "./images/product20.jpg"
+        image: "./product20.jpg"
     }
 
 ];
