@@ -530,7 +530,7 @@ function setLocalImagePaths() {
     products.forEach(product => {
 
         product.image =
-            `./images/product${product.id}.jpg`;
+            `./product${product.id}.jpg`;
 
     });
 
